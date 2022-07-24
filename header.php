@@ -12,7 +12,8 @@
 
 <?php echo get_option('analytics_tracking_code');?>
 <?php echo get_option('webmaster_tool');?>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9533127576866960"
+     crossorigin="anonymous"></script>
 </head>
 
 <body id="top" <?php body_class();?> itemschope="itemscope" itemtype="http://schema.org/WebPage">
